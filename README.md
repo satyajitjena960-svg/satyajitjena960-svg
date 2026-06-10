@@ -22,10 +22,9 @@ I am passionate about building scalable backend applications, handling data arch
 ### 🔥 My Coding Activity & Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyajitjena90-svg&show_icons=true&theme=radical&hide_border=true" alt="Satyajit's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitjena90-svg&theme=radical&hide_border=true" alt="Satyajit's Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyajitjena960-svg&show_icons=true&theme=radical&hide_border=true" alt="Satyajit's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitjena960-svg&theme=radical&hide_border=true" alt="Satyajit's Streak" height="150" />
 </p>
-
 ---
 
 ### 🤝 Let's Connect!
