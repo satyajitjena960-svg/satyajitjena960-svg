@@ -1,7 +1,7 @@
 # Hi there, I'm Satyajit Jena 👋
 
 ### 🚀 Full-stack Developer & Aspiring Software Engineer
-I am passionate about building scalable backend applications, handling data architectures, and optimizing core algorithms. I love exploring powerful backend ecosystems like Java/Spring Boot,frontend ecosystem like React & Angular and decentralized networks.
+I am passionate about building scalable backend applications, handling data architectures, and optimizing core algorithms. I love exploring powerful backend ecosystems like Java/Spring Boot, frontend ecosystems like React & Angular, and decentralized networks.
 
 - 🔭 **Current Focus:** Developing production-ready microservices and enterprise-grade backend APIs.
 - 🎓 **Education:** Pursuing Master of Computer Applications (MCA), deep-diving into Computer Science fundamentals.
@@ -22,11 +22,12 @@ I am passionate about building scalable backend applications, handling data arch
 ### 🔥 My Coding Activity & Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyajitjena960-svg&show_icons=true&theme=radical&hide_border=true" alt="Satyajit's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitjena960-svg&theme=radical&hide_border=true" alt="Satyajit's Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyajitjena960-svg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Satyajit's GitHub Stats" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=satyajitjena960-svg&theme=radical&hide_border=true" alt="Satyajit's Streak" height="150" />
 </p>
+
 ---
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyajitjena365@gmail.com)
