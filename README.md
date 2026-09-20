@@ -23,7 +23,7 @@ I am passionate about building scalable backend applications, handling data arch
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=satyajitjena960-svg&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Satyajit's GitHub Stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=satyajitjena960-svgE&theme=radical&hide_border=true&v=1" alt="Satyajit's Streak" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=satyajitjena960-svg&theme=radical&hide_border=true&v=1" alt="Satyajit's Streak" height="150" />
 </p>
 
 ---
