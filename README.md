@@ -1,4 +1,4 @@
-# Hi there, I'm Satyajit Jena 👋
+# Hi there, I'm Satyajit Jena 👋 
 
 ### 🚀 Full-stack Developer & Aspiring Software Engineer
 I am passionate about building scalable backend applications, handling data architectures, and optimizing core algorithms. I love exploring powerful backend ecosystems like Java/Spring Boot, frontend ecosystems like React & Angular, and decentralized networks.
