@@ -9,7 +9,7 @@ I am passionate about building scalable backend applications, handling data arch
 
 ---
 
-### 🛠️ Tech Stack & Badges
+### 🛠️ Tech Stack & Badges 
 
 | Category | Technologies |
 | :--- | :--- |
